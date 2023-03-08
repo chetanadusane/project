@@ -1,0 +1,21 @@
+body{ 
+    font-family: Judson;
+}
+
+.login,
+.image {
+  min-height: 100vh;
+}
+.img-text {
+
+text-align: center;
+padding-top: 200px;
+padding-left: 200px;
+
+}
+
+.bg-image {
+  background-image: url(./eventimg.jpg);
+  background-size: cover;
+  background-position: center center;
+}

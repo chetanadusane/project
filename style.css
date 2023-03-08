@@ -1,0 +1,29 @@
+
+
+/* 
+  @import url('https://fonts.googleapis.com/css2?family=Judson&display=swap'); */
+
+body{ 
+    font-family: Judson;
+}
+
+.login,
+.image {
+  min-height: 100vh;
+}
+.img-text {
+
+text-align: center;
+padding-top: 100px;
+padding-left: 100px;
+-webkit-text-fill-color: aliceblue;
+
+}
+
+.bg-image {
+  background-image: url(./eventimg.jpg);
+  padding-left: 0px;
+  background-size: cover;
+  background-position: center;
+}
+
